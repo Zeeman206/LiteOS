@@ -66,6 +66,8 @@ LiteOS目前已经适配了30多种开发板，其中包括ST、NXP、GD、MIDMO
 
 - GD32F207C-EVAL
 
+- GD32F303RGT6 (BearPi GD32)
+
 ## Nuvoton
 
 - NuTiny-NUC472H
